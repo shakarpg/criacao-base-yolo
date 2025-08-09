@@ -1,0 +1,4 @@
+train: ./datasets/coco128/images/train2017
+val: ./datasets/coco128/images/train2017
+nc: 2
+names: ['dog', 'bicycle']
